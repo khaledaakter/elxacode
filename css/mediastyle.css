@@ -1,0 +1,124 @@
+@media (min-width: 0px) and (max-width: 768px) {
+  .sky-nav-right {
+    margin: 7.5px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) and (max-width: 1454px) {
+  .sky-nav-right-collapse {
+    position: absolute;
+    padding: 5px;
+    margin-bottom: 2%;
+    width: 86%;
+  }
+}
+@media (min-width: 929px) and (max-width: 1241px) {
+  .footer-right-section {
+    float: left;
+    width: 100%;
+  }
+}
+@media (min-width: 768px) and (max-width: 928px) {
+  .footer-right-section {
+    float: left;
+    width: 100%;
+  }
+}
+@media (min-width: 0px) and (max-width: 1650px) {
+  .companypage-menu ul {
+  	width: 100%;
+  }
+}
+@media (min-width: 1651px) and (max-width: 1970px) {
+  .companypage-menu ul {
+    width: 79%;
+  }
+}
+@media (min-width: 0px) and (max-width: 1200px) {
+  .section-1-container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .section-1-contant h2 {
+    width: 100%;
+    font-size: 24px;
+  }
+  .section-1-contant p {
+    width: 100%;
+    padding: 2% 20%;
+  }
+}
+@media (min-width: 1201px) and (max-width: 1500px) {
+  .section-1-contant h2 {
+    width: 100%;
+    font-size: 29px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .HomePage-logo {
+    margin-top: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .section3-icon {
+    margin-left: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 950px) {
+  .country-form {
+    margin-top: 15px;
+    margin-right: 8px;
+    margin-bottom: 0px;
+  }
+  .top-ber-icon {
+    margin-top: -2px;
+    padding-right: 10px;    
+  }
+  .top-search-icon {
+    margin-top: -3px;
+  }
+}
+@media (min-width: 0px) and (max-width: 700px) {
+  .top-search-icon {
+    margin-top: -18px;
+  }
+}
+@media (min-width: 0px) and (max-width: 950px) {
+  .logo {
+    margin-top: -14px;
+  }
+}
+@media (min-width: 0px) and (max-width: 450px) {
+  .site-list {
+    margin-left: -43px;
+  }
+  .company-sec4-colum1 {
+    padding-left: 2px !important;
+  }
+  .sky-logo {
+    margin-left: 5px;
+  }
+}
+@media (min-width: 0px) and (max-width: 677px) {
+  .footer1-button {
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+  }  
+  .footer2-logo {
+    width: 80%;
+  }
+  .country-header-container img {
+    margin: 2px auto;
+    width: 100%;
+  }
+}
+.section-4-table {
+  border: 1px solid #cfcbcb;
+  box-shadow: none !important;
+}
+.section5-body {
+  border: 1px solid #cfcbcb;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
